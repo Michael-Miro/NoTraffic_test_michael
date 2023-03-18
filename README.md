@@ -1,3 +1,4 @@
+
 # **NoTraffic Server Database Setup** 
 
 *docker_script.sh*
@@ -26,6 +27,8 @@ If you encounter any errors while running the script, make sure that:
 * The port number you specified in the script is not already in use by another application.
 * The sample data model and data files are located in the same directory as the script.
 * The database is not already created.
+
+Note : provided data base was altered using SQLines for PostgreSQL compatibility 
 
 # **NoTraffic Server**
 
