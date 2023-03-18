@@ -1,0 +1,8 @@
+{
+    "table_name": "customer",
+    "id": 99989,
+    "update_data": {
+        "firstname": "Michael",
+        "lastname": "Miro"
+    }
+}

@@ -1,0 +1,33 @@
+table_schema | table_name |  column_name   
+--------------+------------+----------------
+ public       | customer   | country
+ public       | customer   | firstname
+ public       | customer   | id
+ public       | customer   | city
+ public       | customer   | lastname
+ public       | customer   | phone
+ public       | orders     | totalamount
+ public       | orders     | id
+ public       | orders     | customerid
+ public       | orders     | ordersnumber
+ public       | orders     | ordersdate
+ public       | ordersitem | ordersid
+ public       | ordersitem | productid
+ public       | ordersitem | quantity
+ public       | ordersitem | id
+ public       | ordersitem | unitprice
+ public       | product    | id
+ public       | product    | unitprice
+ public       | product    | package
+ public       | product    | supplierid
+ public       | product    | productname
+ public       | product    | isdiscontinued
+ public       | supplier   | phone
+ public       | supplier   | id
+ public       | supplier   | country
+ public       | supplier   | city
+ public       | supplier   | companyname
+ public       | supplier   | fax
+ public       | supplier   | contacttitle
+ public       | supplier   | contactname
+
