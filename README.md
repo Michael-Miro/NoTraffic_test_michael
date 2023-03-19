@@ -1,5 +1,5 @@
 
-# **NoTraffic Server Database Setup** 
+# ** Server Database Setup** 
 
 *docker_script.sh*
 
@@ -30,7 +30,7 @@ If you encounter any errors while running the script, make sure that:
 
 Note : provided data base was altered using SQLines for PostgreSQL compatibility 
 
-# **NoTraffic Server**
+# ** Server**
 
 This is a Python Flask server that provides APIs to interact with a PostgreSQL database.
 
