@@ -8,7 +8,7 @@ db_host = 'localhost'
 db_port = 5434
 db_name = 'sample_database'
 db_user = 'postgres'
-db_password = 'notraffic'
+db_password = 'password'
 
 # Establish database connection
 conn = psycopg2.connect(
