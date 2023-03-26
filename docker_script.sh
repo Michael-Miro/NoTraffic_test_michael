@@ -47,6 +47,6 @@ if ! docker exec -it server bash -c "psql -U postgres -d sample_database -f samp
 fi
 
 # start the Docker container
-docker start NoTraffic-server
+docker start server
 
 echo "Database created and populated successfully"
